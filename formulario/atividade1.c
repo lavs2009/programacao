@@ -1,3 +1,5 @@
+/* Faça um algoritmo que peça ao usuário para digitar 10 
+números e ao final imprima o número menor e o maior.*/
 #include <stdio.h>
 #include <stdlib.h>
 main(){

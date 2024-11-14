@@ -1,3 +1,5 @@
+/* Faça um programa que lê uma matriz de 3 x 3 elementos usando um comando for,
+ multiplica cada elemento por 5, imprime os valores originais e imprime o resultado. */
 #include <stdio.h>
 #include <stdlib.h>
 int main(){

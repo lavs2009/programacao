@@ -1,3 +1,4 @@
+/*Faça um algoritmo que mostre todos os números pares e ímpares até 1000*/
 #include <stdio.h>
 #include <stdlib.h>
 main(){

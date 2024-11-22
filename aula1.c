@@ -33,9 +33,9 @@ float main()
     Se a média for menor que 6, o aluno foi
     reprovado. Se for maior ou igual a 6, foi aprovado.*/
     if(media<6) 
-    printf(" Você foi reprovado!");
+    printf("\n Você foi reprovado!");
     else{ 
-        printf("Você foi aprovado!");
+        printf("\n Você foi aprovado!");
         return 0;
     }
 }

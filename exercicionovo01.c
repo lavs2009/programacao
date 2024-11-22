@@ -1,12 +1,7 @@
 /* 1- Elabore um programa que peça seu nome,
 endereço, telefone, CEP. O programa deve imprimir
 o seu nome completo,CEP, eo telefone na terceira linha.
-
-2- Faça um programa que leia dois números inteiros e
-mostre se o primeiro é múltiplo do segundo.
-
-3- Faça um programa que leia um número e diga
-se ele é múltiplo de 6.*/
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>
